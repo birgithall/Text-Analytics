@@ -1,0 +1,5 @@
+# Environment & Data Fetching
+datasets 
+python-dotenv
+huggingface-hub
+kagglehub
